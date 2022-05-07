@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>ru.gorodlilov</groupId>
+  <artifactId>ru.gorodlilov.test</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20220507133718</lastUpdated>
+  </versioning>
+</metadata>
